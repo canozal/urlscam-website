@@ -10,17 +10,23 @@ Our secure URL scan app, URLSCAM, provides a seamless and user-friendly experien
 
 ![Step By Step](https://github.com/canozal/urlscam-website/assets/47246431/ef014e1f-1982-4d5f-932a-d6e11ff2695d)
 
-## Step 1: Set URLSCAM as Your Default Browser
+## Step 1: Download and Install URLscam
+
+Begin by downloading and installing URLscam from the Google Play Store. This step is essential to start utilizing our app's powerful scanning capabilities. Once installed, move on to the next step to optimize your online security.
+
+## Step 2: Set URLSCAM as Your Default Browser
 
 To make the most of our app's scanning capabilities, set URLSCAM as your default browser on your device. By doing this, you enable our app to scan URLs from any source, including SMS messages, social media platforms, and more.
 
-## Step 2: Scan URLs from Anywhere
+## Step 3: Scan URLs from Anywhere
 
 Once URLSCAM is your default browser, you can scan URLs with ease from any app on your device. Whether it's an email, a message, or a social media post, just tap on the URL, and URLSCAM will automatically scan it for you.
 
-## Step 3: Instant Results and Security Insights
+## Step 4: Instant Results and Security Insights
 
 Within seconds, URLSCAM will provide you with detailed scan results, alerting you to any potential threats associated with the URL. Our app employs advanced threat detection technology, enabling you to make informed decisions while navigating the web.
+
+For a more comprehensive guide, **watch the video.**
 
 ## Get Started Today
 

@@ -26,7 +26,7 @@ Once URLSCAM is your default browser, you can scan URLs with ease from any app o
 
 Within seconds, URLSCAM will provide you with detailed scan results, alerting you to any potential threats associated with the URL. Our app employs advanced threat detection technology, enabling you to make informed decisions while navigating the web.
 
-For a more comprehensive guide, **watch the video.** [URLscam Video Guide]([https://www.youtube.com/shorts/Lv3TWMamdo8](https://www.youtube.com/watch?v=Lv3TWMamdo8)
+For a more comprehensive guide, **watch the video.** [URLscam Video Guide](https://www.youtube.com/watch?v=Lv3TWMamdo8)
 
 ## Get Started Today
 

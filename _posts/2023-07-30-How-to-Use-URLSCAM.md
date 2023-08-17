@@ -28,6 +28,8 @@ Download [URLSCAM](https://play.google.com/store/apps/details?id=com.urlscam.URL
 
 Got questions or feedback? We'd love to hear from you. Contact our support team, and together, let's make the web a safer place.
 
+![Step By Step](https://github.com/canozal/urlscam-website/assets/47246431/091580f9-6d55-4338-a500-80561225a833)
+
 ![urlscam](https://github.com/canozal/urlscam-website/assets/47246431/c100f419-3641-43f6-8837-0d69fceb10a9)
 
 
